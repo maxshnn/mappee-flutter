@@ -1,0 +1,3 @@
+enum Exception {
+  error,
+}
